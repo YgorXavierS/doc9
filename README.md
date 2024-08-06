@@ -7,3 +7,8 @@ Das faturas você deverá extrair o Número da Fatura, Data da Fatura, URL da fa
 Você terá que construir um CSV e salvar as faturas numa pasta. Considere apenas para as faturas cuja Data de Vencimento já passou ou é hoje.
 Desconsidere as instruções originais do site.
 Quando terminar, você me envia o repositório no github com sua solução.
+
+# URL
+https://rpachallengeocr.azurewebsites.net
+
+![alt text](image.png)
